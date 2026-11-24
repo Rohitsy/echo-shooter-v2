@@ -20,6 +20,10 @@ Enemies can't see you, they only hear you. So you get loud on purpose and aim th
 
 ## In the Unity build
 
+▶ [Watch the 30 s gameplay highlights](media/highlights-30s.mp4) · ▶ [Watch a full run through all 8 rooms (1:56)](media/full-run.mp4)
+
+Recorded in Unity 6 at 1080p with the game's own synthesised audio (720p copies here).
+
 | | |
 |---|---|
 | <img src="screenshots/01_dark_start.jpg" width="380"><br>Dark start: your ring is all you can see | <img src="screenshots/04_square_marks.jpg" width="380"><br>Get loud: the ring turns red and a square marks the spot |
